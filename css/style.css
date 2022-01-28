@@ -38,8 +38,7 @@ header .container .icon {
     margin-right: 10px;
   }
 }
-header,
-.landing {
+body {
   background-color: var(--third-color);
 }
 @media (min-width: 576px) {
@@ -148,7 +147,7 @@ header .logo img {
   margin: 10px 0px;
 }
 .landing .container a:hover {
-  background-color: black;
+  background-color: var(--secondary-color);
   color: white;
 }
 .landing .container div img {
