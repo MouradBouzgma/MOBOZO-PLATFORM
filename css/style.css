@@ -134,6 +134,7 @@ header .logo img {
   font-size: 50px;
   text-align: center;
   color: var(--main-color);
+  text-transform: uppercase;
 }
 .landing .container a {
   display: inline-block;
